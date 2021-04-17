@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="166.65px" width="166.7px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -186.75, -173.5)">
+    <path d="M351.45 201.25 L351.45 312.8" fill="none" stroke="url(#gradient0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.0"/>
+    <path d="M188.75 312.45 L188.75 200.9" fill="none" stroke="url(#gradient1)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.0"/>
+    <path d="M325.7 338.15 L214.1 338.15" fill="none" stroke="url(#gradient2)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.0"/>
+    <path d="M214.45 175.5 L326.05 175.5" fill="none" stroke="url(#gradient3)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.0"/>
+  </g>
+  <defs>
+    <linearGradient gradientTransform="matrix(-6.0E-4, 0.0675, -0.1019, -6.0E-4, 351.45, 257.0)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#ff0000"/>
+      <stop offset="1.0" stop-color="#00ff00"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(-6.0E-4, -0.0675, -0.1019, 6.0E-4, 188.75, 256.65)" gradientUnits="userSpaceOnUse" id="gradient1" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#ff0000"/>
+      <stop offset="1.0" stop-color="#00ff00"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(-0.0676, -6.0E-4, 6.0E-4, -0.1019, 269.9, 338.15)" gradientUnits="userSpaceOnUse" id="gradient2" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#ff0000"/>
+      <stop offset="1.0" stop-color="#00ff00"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.0676, -6.0E-4, -6.0E-4, -0.1019, 270.25, 175.5)" gradientUnits="userSpaceOnUse" id="gradient3" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#ff0000"/>
+      <stop offset="1.0" stop-color="#00ff00"/>
+    </linearGradient>
+  </defs>
+</svg>
